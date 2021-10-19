@@ -1,0 +1,10 @@
+Single server queuing system
+
+Mean interarrival time      1.000 minutes 
+
+Mean service time           0.500 minutes
+
+Number of customers          1000
+
+
+Overflowed of the array time_arrival at time 107.118637
